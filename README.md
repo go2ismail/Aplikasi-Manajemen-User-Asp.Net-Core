@@ -70,8 +70,8 @@ Dapat digunakan sebagai project starter untuk mendevelop aplikasi yang lebih bes
 note: Syncfusion adalah provider control dunia terkemuka. dengan menggunakan control syncfusion, penulisan source code menjadi lebih standar, seragam dan lebih sedikit coding nya.
 
 
-# Di dukung oleh INDOTALENT
-Software provider & developer dengan banyak produk siap digunakan (https://indotalent.com)
+# Di dukung oleh CodeRush.CO
+Software provider & developer dengan banyak produk siap digunakan (https://coderush.co). 50% Off All Products, Use Discount Code **GITHUB50**
 
 
 
